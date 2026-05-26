@@ -1,4 +1,4 @@
-import { Phone, MessageCircle, Instagram } from "lucide-react";
+import { Phone, MessageCircle, Instagram, Shield } from "lucide-react";
 
 const Footer = () => (
   <footer className="bg-background border-t border-border py-12 px-4">
@@ -28,6 +28,14 @@ const Footer = () => (
                 </a>
               </li>
             ))}
+            <li>
+              <a
+                href="/privacidade"
+                className="flex items-center gap-1.5 text-muted-foreground hover:text-primary transition-colors"
+              >
+                <Shield size={14} /> Política de Privacidade
+              </a>
+            </li>
           </ul>
         </div>
 
@@ -58,8 +66,12 @@ const Footer = () => (
         </div>
       </div>
 
-      <div className="border-t border-border mt-10 pt-6 text-center text-sm text-muted-foreground">
-        © {new Date().getFullYear()} Ponto do Andaime — Todos os direitos reservados
+      <div className="border-t border-border mt-10 pt-6 flex flex-col md:flex-row items-center justify-center gap-4 text-sm text-muted-foreground">
+        <span>© {new Date().getFullYear()} Ponto do Andaime — Todos os direitos reservados</span>
+        <span className="hidden md:inline">·</span>
+        <a href="/privacidade" className="hover:text-primary transition-colors underline underline-offset-2">
+          Política de Privacidade e Cookies
+        </a>
       </div>
     </div>
   </footer>
