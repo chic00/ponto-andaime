@@ -35,7 +35,7 @@ const ContactSection = () => (
 
         <div>
           <a
-            href="https://instagram.com"
+            href="https://www.instagram.com/pontodoandaime/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 border border-border text-foreground px-6 py-3 rounded-md font-medium hover:border-primary hover:text-primary transition-colors"
