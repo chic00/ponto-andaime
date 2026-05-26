@@ -47,7 +47,7 @@ const Footer = () => (
               <MessageCircle size={16} /> WhatsApp
             </a>
             <a
-              href="https://instagram.com"
+            href="https://www.instagram.com/pontodoandaime/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors"
