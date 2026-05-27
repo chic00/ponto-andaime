@@ -49,7 +49,7 @@ const PrivacyPolicy = () => {
         {/* Intro */}
         <Section title="1. Introdução">
           <p>
-            A Ponto do Andaime, inscrita no CNPJ 00.000.000/0000-00, com sede em Cuiabá/MT, valoriza a privacidade dos usuários de seu site. Esta Política de Privacidade foi elaborada em conformidade com a Lei Geral de Proteção de Dados (Lei nº 13.709/2018 – LGPD) e tem como objetivo informar de maneira clara e transparente como tratamos os dados pessoais coletados por meio do nosso site institucional.
+            A Ponto do Andaime, inscrita no CNPJ 21.101.312/0001-61, com sede em Cuiabá/MT, valoriza a privacidade dos usuários de seu site. Esta Política de Privacidade foi elaborada em conformidade com a Lei Geral de Proteção de Dados (Lei nº 13.709/2018 – LGPD) e tem como objetivo informar de maneira clara e transparente como tratamos os dados pessoais coletados por meio do nosso site institucional.
           </p>
           <p>
             Ao acessar e utilizar nosso site, você concorda com as práticas descritas nesta política. Caso não concorde, recomendamos que não continue navegando em nossas páginas.
