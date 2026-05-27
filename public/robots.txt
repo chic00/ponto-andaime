@@ -13,4 +13,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://ponto-andaime.lovable.app/sitemap.xml
+Sitemap: https://www.pontodoandaime.com.br/sitemap.xml
